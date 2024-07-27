@@ -11,7 +11,7 @@
 > - mse.py and correlation.py are meant for correlation and mse tests.
 
 > [!NOTE]
-> 
+> - This project is meant for demonstration of concept , to use it for practical purposes some modifications are needed.
 
 
 
