@@ -13,7 +13,7 @@
 > [!NOTE]
 > - This project is meant for demonstration of concept , to use it for practical purposes some modifications are needed.
 
-![](The-original-cameraman-image.png)
+![](DecryptedImage.bmp)
 ![](EncryptedImage.bmp)
 
 
