@@ -4,3 +4,5 @@
 
 > [!IMPORTANT]
 > ## Usage
+> keygenerator.py is the main function which is performing encryption , in my code i have used logistic map , which is the simplest chaotic map.
+> users can use different maps and combinations as per their needs
