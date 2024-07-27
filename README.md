@@ -3,4 +3,4 @@
 ### Image pixels are shuffled at sender's side using chaotic maps and keys are shared using ECC algorithm.
 
 > [!IMPORTANT]
-> ##Usage
+> ## Usage
